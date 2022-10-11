@@ -1,0 +1,4 @@
+type Ex1 @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  untitledfield: AWSDate
+}

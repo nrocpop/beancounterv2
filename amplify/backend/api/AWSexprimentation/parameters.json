@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "AWSexprimentation",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

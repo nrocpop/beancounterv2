@@ -1,0 +1,25 @@
+{
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-experimentone-master-202634-authRole",
+      "UnauthRoleArn": "arn:aws:iam::259776275766:role/amplify-experimentone-master-202634-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::259776275766:role/amplify-experimentone-master-202634-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-experimentone-master-202634-deployment",
+      "UnauthRoleName": "amplify-experimentone-master-202634-unauthRole",
+      "StackName": "amplify-experimentone-master-202634",
+      "StackId": "arn:aws:cloudformation:us-east-2:259776275766:stack/amplify-experimentone-master-202634/57fbcad0-41c7-11ed-933a-061bfc038aa4",
+      "AmplifyAppId": "dqh8gkfq00ply"
+    },
+    "categories": {
+      "auth": {
+        "beancounterv2eaeaabfb": {
+          "userPoolId": "us-east-2_HBAVEI4Bi",
+          "userPoolName": "BeanCounterUserPool",
+          "webClientId": "2prkf4qr2faal7p7of6iivkaqr",
+          "nativeClientId": "2prkf4qr2faal7p7of6iivkaqr"
+        }
+      }
+    }
+  }
+}
